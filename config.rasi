@@ -1,0 +1,7 @@
+@theme "~/.config/rofi/themes/nord.rasi"
+
+configuration {
+  modi: "window,drun,run,combi";
+  combi-modes: "window,drun,run";
+  show-icons: true;
+}
